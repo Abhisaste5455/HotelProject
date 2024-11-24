@@ -1,0 +1,268 @@
+*{
+    margin:0 ;
+    padding: 0;
+
+}
+section.sec1{
+    background-image:url(./slider-1-1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    background-position: center;
+}
+nav{
+    display: flex;
+    padding-top: 20px;
+    justify-content:space-evenly;
+    
+    
+}
+.div1{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    
+    
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+li{
+    font-size: 20px;
+    padding-top: 30px;
+}
+ul{
+    display: flex;
+    width: 600px;
+}
+
+.div2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 180px;
+    font-size: 50px;
+}
+.div3 {
+    display: flex;
+    color: white;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 20px;
+  
+   
+    
+}
+.div3>h5{
+    /* width: 100%;  */
+    margin: 0 auto; 
+    text-align: justify;
+}
+section.sec2{
+    display: flex;
+    background-color: white;
+    height: 700px;
+} 
+.div4 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+
+.content {
+    display: flex; 
+    align-items: center; 
+    /* padding-bottom: 100px; */
+    
+     
+}
+.About{
+    /* display: flex; */
+    justify-content: end;
+    align-items: first center;
+    padding: 50px;
+    padding-top: 250px;
+    font-size: 20px;
+}
+
+h2{
+    padding-left: 130px;
+}
+
+ section.sec3{
+    display: flex;
+    background-color: white;
+    height: 100px; 
+}
+.div4>a{
+    color: rgb(135, 119, 119);
+    padding-top: 30px;
+    text-decoration: underline;
+} 
+
+.sec3{
+    
+   gap: 110px;
+   padding-left: 60px;
+   padding-bottom: 40px;
+   
+   
+
+
+}
+.available{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    
+    
+}
+.div5{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    height: 20px;
+    width: 200px;
+    padding-left: 20px;
+}
+
+.sec4{
+    /* display: flex; */
+    height: 500px;
+    margin: 30px;
+    
+    
+    
+}
+.div6{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    
+    
+    
+}
+.div7{
+    background-image: url(./img1.jpg);
+    height: 400px;
+    width: 400px;
+    display: flex;
+     justify-content: flex-end; 
+   flex-direction: column;
+   color: white;
+   
+}
+
+.div8{
+    background-image: url(./img2.jpg);
+    height: 400px;
+    width: 400px;
+    display: flex;
+     justify-content: flex-end; 
+   flex-direction: column;
+   color: white;
+   
+}
+
+.div9{
+    background-image: url(./img3.jpg);
+    height: 400px;
+    width: 400px;
+    display: flex;
+     justify-content: flex-end; 
+   flex-direction: column;
+   color: white;
+   
+}
+ .div10{
+    background-image: url(./img4.jpg);
+    height: 400px;
+    width: 400px;
+    display: flex;
+     justify-content: flex-end; 
+   flex-direction: column;
+   color: white;
+   
+}
+/* .div11{
+    background-image: url(./img5.jpg);
+    height: 400px;
+    width: 400px;
+    display: flex;
+     justify-content: flex-end; 
+   flex-direction: column;
+   color: white;
+   
+}  */
+
+.div12>a{
+    color: rgb(146, 110, 110);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    font-size: large;
+    text-decoration: underline;
+    
+    
+}
+
+.sec5{
+    display: flex;
+    margin: 30px;
+}
+.div13{
+    height: 400px;
+    background-color: black;
+    color: white;
+    padding-top: 200px;
+    text-align: center;
+   
+    
+    
+}
+.div13>p{
+    width: 80%; 
+    margin: 0 auto;
+    text-align: justify;
+  
+}
+.div13>a{
+    color: rgb(110, 83, 83);
+    text-decoration: underline;
+}
+.sec6{
+    display: flex;
+    margin: 30px;
+}
+
+.div16{
+    height: 400px;
+    background-color: rgb(157, 223, 236);
+    color: rgb(7, 7, 7);
+    padding-top: 200px;
+    text-align: center;
+}
+.div16>p{
+    width: 80%; 
+    margin: 0 auto;
+    text-align: justify;
+}
+.div16>a{
+    color: rgb(110, 83, 83);
+    text-decoration: underline;
+}
+.sec7{
+   
+    margin: 30px;
+  
+}
